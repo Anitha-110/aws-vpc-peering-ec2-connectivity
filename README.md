@@ -42,5 +42,13 @@ The EC2 instances successfully communicated over their private IP addresses thro
 - Networking
 
 ## Screenshots
+<img width="860" height="208" alt="image" src="https://github.com/user-attachments/assets/bc1cc260-f8f1-489b-a877-dc3b4b539444" />
+<img width="848" height="178" alt="image" src="https://github.com/user-attachments/assets/8eee6a49-8ec3-4d54-9168-8b5dd598430d" />
+<img width="873" height="206" alt="image" src="https://github.com/user-attachments/assets/42fff764-fe09-4a31-99ed-e215bfb8ae4e" />
+<img width="810" height="425" alt="image" src="https://github.com/user-attachments/assets/f2ed00ee-a7d0-4ae3-bfa6-9e7a7012d62e" />
 
-Screenshots are available in the **screenshots** .
+
+
+
+
+
